@@ -1,4 +1,4 @@
-<img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
+<img width="960" height="540" alt="Screenshot 2025-08-09 060755" src="https://github.com/user-attachments/assets/afd99daa-57e8-40e8-af88-dcf7ae2bfdbd" /><img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
  virtual bubble wrap
@@ -26,15 +26,9 @@ creating a virtual bubble wrap
 ### Technologies/Components Used
 For Software:
 - [HTML ,CSS<JAVA SCRIPT> used]
-- [NONE]
-- [NONE]
-- [NONE]
 
 ### Implementation
 For Software:
-# Installation
-[commands]
-
 # Run
 [commands]
 
@@ -42,50 +36,26 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
+![Screenshot1]
+<img width="960" height="540" alt="Screenshot 2025-08-09 060913" src="https://github.com/user-attachments/assets/7a96426b-e054-4173-9d55-92e85c2cc73c" />
+
 **
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot2][Uploading Screenshot 2025-08-09 060755.png…]()
+hat this shows*
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
-
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
+![Screenshot3<img width="960" height="540" alt="Screenshot 2025-08-09 055213" src="https://github.com/user-attachments/assets/e9b7304d-e782-45bd-abdf-e7151e671c42" />
+]
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
-
-# Additional Demos
-[Add any extra demo materials/links]
-
+[https://gofile.io/d/A9t7Hs]
+*when a bubble is clicked it pops *
+ 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- [Abin scaria ]: [idea]
+- [Agnivesh V S]: [implementation]
+
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
